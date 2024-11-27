@@ -5,8 +5,9 @@
 
 <h3>About me</h3>
 <ul>
-  <li>Studying full stack jr java development at Generation bootcamp ☕</li>
-  <li>Java Development with AI at DIO bootcamp 🌐</li>
+  <li>Studying Software Engineering - Estácio 💻</li>
+  <li>Studying AWS Re/Start 1 - Escola da Nuvem ☁️</li>
+  <li>Graduated in Web Developer Full Stack Java Jr - Generation Brasil ☕</li>
 </ul>
 
 ---
